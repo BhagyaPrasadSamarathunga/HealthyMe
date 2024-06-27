@@ -2,7 +2,7 @@
 
 ## Description
 
-Implement a sample web application for choose food acording to user BMI preference
+Implement a sample web application for choose food according to user BMI preference.
 
 ## Setup
 
