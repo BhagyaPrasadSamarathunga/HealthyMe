@@ -1,0 +1,124 @@
+[
+    {   "id":1,
+        "question":"What is your gender?",
+        "dropdownOptions":[{
+          "id": 1,
+          "label": "Male",
+          "value": "Male"
+        },
+        {
+          "id": 2,
+          "label": "Female",
+          "value": "Female"
+        }],
+        "questionType": "Gender"
+    },
+    {   
+        "id":2,
+        "question":"What is your age range?",
+        "dropdownOptions":[{
+          "id": 1,
+          "label": "20-30",
+          "value": "25"
+        },
+        {
+          "id": 2,
+          "label": "31-40",
+          "value": "35"
+        },
+        {
+          "id": 3,
+          "label": "41-50",
+          "value": "45"
+        },
+        {
+          "id": 4,
+          "label": "51-60",
+          "value": "55"
+        },
+        {
+          "id": 5,
+          "label": "61-70",
+          "value": "65"
+        },
+        {
+          "id": 6,
+          "label": "71-80",
+          "value": "75"
+        },
+        {
+          "id": 7,
+          "label": "81-90",
+          "value": "85"
+        },
+        {
+          "id": 8,
+          "label": "91-100",
+          "value": "95"
+        }
+      ],
+        "questionType": "Age"
+    },
+    {
+        "id":3,
+        "question":"What is your Weight range?",
+        "dropdownOptions":[{
+          "id": 1,
+          "label": "20-30",
+          "value": "25"
+        },
+        {
+          "id": 2,
+          "label": "31-40",
+          "value": "35"
+        },
+        {
+          "id": 3,
+          "label": "41-50",
+          "value": "45"
+        },
+        {
+          "id": 4,
+          "label": "51-60",
+          "value": "55"
+        },
+        {
+          "id": 5,
+          "label": "61-70",
+          "value": "65"
+        },
+        {
+          "id": 6,
+          "label": "71-80",
+          "value": "75"
+        },
+        {
+          "id": 7,
+          "label": "81-90",
+          "value": "85"
+        },
+        {
+          "id": 8,
+          "label": "91-100",
+          "value": "95"
+        }
+      ],
+        "questionType": "Weight"
+    },
+    {
+        "id":4,
+        "question":"Do you want to weight gain?",
+        "dropdownOptions":[{
+          "id": 1,
+          "label": "Yes",
+          "value": "yes"
+        },
+        {
+          "id": 2,
+          "label": "No",
+          "value": "no"
+        }
+        ],
+        "questionType": "Intention"
+    }
+]

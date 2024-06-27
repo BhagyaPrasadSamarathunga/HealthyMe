@@ -1,0 +1,51 @@
+[
+    {
+      "id":1,
+      "image": "/images/dishes/cake.jpg",
+      "name": "Cake",
+      "description": "Calling all chocolate lovers! Perfectly moist and soft, with a velvety, decadent chocolate.",
+      "price": 6.39,
+      "calorie": 20
+    },
+    {
+      "id":2,
+      "image": "/images/dishes/hamburger.jpg",
+      "name": "Hamburger",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 9.99,
+      "calorie": 30
+    },
+    {
+      "id":3,
+      "image": "/images/dishes/pizza.jpg",
+      "name": "Pizza",
+      "description": "Traditional Neapolitan pizza topped with tomato sauce, mozzarella cheese, and fresh basil.",
+      "price": 8.99,
+      "calorie": 25
+    },
+    {
+      "id":4,
+      "image": "/images/dishes/ramen.jpg",
+      "name": "Ramen",
+      "description": "Chinese style wheat noodles served in a broth common flavors are soy sauce and miso, with typical toppings including sliced pork, nori, menma, and scallions.",
+      "price": 10.99,
+      "calorie": 15
+    },
+    {
+      "id":5,
+      "image": "/images/dishes/salad.jpg",
+      "name": "Salad",
+      "description": "This Crunch Salad is loaded up with crunchy veg, chow mein noodles, edamame, and roasted cashews and it'll make you ACTUALLY WANT TO EAT A SALAD.",
+      "price": 6.00,
+      "calorie": 8
+    },
+    {
+      "id":6,
+      "image": "/images/dishes/waffel.jpg",
+      "name": "Waffel",
+      "description": "These Classic Waffles are buttery and delicious and use basic pantry ingredients that come together in minutes!.",
+      "price": 4.10,
+      "calorie": 10
+    }
+  ]
+  

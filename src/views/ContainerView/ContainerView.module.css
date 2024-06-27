@@ -1,0 +1,10 @@
+.bmiContainer {
+    font-size: bold;
+    background-color: #2e93ff;
+    color: white;
+}
+.noBmiContainer {
+    font-size: bold;
+    background-color: #7a0e0e;
+    color: white;
+}

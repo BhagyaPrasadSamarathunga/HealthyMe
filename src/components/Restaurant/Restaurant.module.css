@@ -1,0 +1,35 @@
+.restaurantItem {
+    background-color: #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+  
+.restaurantItem h3 {
+    background-color: black;
+    margin: 0;
+    padding: 15px;
+    color: white;
+}
+  
+.restaurantItem img {
+    width: auto;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    aspect-ratio: 2 / 1;
+}
+
+.rating {
+    display: flex;
+    flex-direction: row;
+    height: 35px;
+    padding: 2px;
+}

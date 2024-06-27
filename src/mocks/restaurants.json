@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "image": "/images/resturent/annie.jpg",
+      "name": "Annie's Harbour Resturent",
+      "rating": 4
+    },
+    {
+        "id": 2,
+        "image": "/images/resturent/bacon.jpg",
+        "name": "Bacon Rolles",
+        "rating": 1
+    },
+    {
+        "id": 3,
+        "image": "/images/resturent/james.jpg",
+        "name": "James Resturent",
+        "rating": 5
+    },
+    {
+        "id": 4,
+        "image": "/images/resturent/little.jpg",
+        "name": "Little Caesares",
+        "rating": 4
+    },
+    {
+        "id": 5,
+        "image": "/images/resturent/mcdonald.jpg",
+        "name": "McDonald's",
+        "rating": 5
+      },
+      {
+        "id": 6,
+        "image": "/images/resturent/sumo.jpg",
+        "name": "SUMO Rooftop",
+        "rating": 5
+      }
+  ]
+  

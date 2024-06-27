@@ -1,0 +1,14 @@
+.FoodCartViewWrapper {
+    max-width: 1080px;
+    margin: var(--nav-height) auto 0 auto;
+    padding: 40px;
+  }
+  
+  .menu {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+  }
